@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fly high!</string>
+    <string name="main_menu_play_button">Play</string>
+    <string name="balonik">Balonik</string>
+    <string name="score_text">Score:\n%d</string>
+    <string name="highscore_text">Highscore: %d</string>
+    <string name="resume_button">Resume</string>
+    <string name="exit_button">Exit</string>
+    <string name="signature">Made by\nPatrycja Frąckiewicz</string>
+</resources>
